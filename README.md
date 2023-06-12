@@ -1,6 +1,10 @@
 # Desafio de Desenvolvimento Frontend - Promobit  
 Este repositório contém a solução para o desafio de desenvolvimento frontend proposto pelo Promobit. O desafio consiste em criar uma aplicação que exiba uma listagem dos filmes mais populares do dia, utilizando a API gratuita themoviedb.  
 
+#Deploy
+
+link: (Clique aqui para visitar o site)[https://movie-promobit.surge.sh/]
+
 ## Requisitos Funcionais  
 - O usuário deve ter acesso a uma listagem dos filmes mais populares do dia.  
 - O usuário deve conseguir paginar a lista para encontrar novos filmes.  
