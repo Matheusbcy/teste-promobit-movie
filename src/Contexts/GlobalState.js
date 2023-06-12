@@ -14,7 +14,7 @@ export default function GlobalState(props) {
   const headers = {
     accept: "application/json",
     Authorization:
-      "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJmMTIxMGVmOTY2MGU5MmY2ZWI1MjFkZDJlNDlhNDNhYiIsInN1YiI6IjY0ODM0NmY5OTkyNTljMDBmZjBkZTE5MSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.xZgzu_1EGwbLvDeQ-cWfvHZMuDbeozY2KYxXPdGNMT4",
+    {{sua key TMDB}},
   };
 
   const getFavoritFilmes = async () => {
