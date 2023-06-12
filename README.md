@@ -2,15 +2,15 @@
 Este repositório contém a solução para o desafio de desenvolvimento frontend proposto pelo Promobit. O desafio consiste em criar uma aplicação que exiba uma listagem dos filmes mais populares do dia, utilizando a API gratuita themoviedb.  
 
 ## Requisitos Funcionais  
-O usuário deve ter acesso a uma listagem dos filmes mais populares do dia.  
-O usuário deve conseguir paginar a lista para encontrar novos filmes.  
-Ao clicar em um item na listagem, o usuário deve ter acesso a uma outra página com os detalhes do filme escolhido.  
-A página de detalhes do filme deve possuir uma rota própria e estar preparada para ser indexada em mecanismos de pesquisa. 
+- O usuário deve ter acesso a uma listagem dos filmes mais populares do dia.  
+- O usuário deve conseguir paginar a lista para encontrar novos filmes.  
+- Ao clicar em um item na listagem, o usuário deve ter acesso a uma outra página com os detalhes do filme escolhido.  
+- A página de detalhes do filme deve possuir uma rota própria e estar preparada para ser indexada em mecanismos de pesquisa. 
 
 ## Requisitos Não Funcionais  
-O aplicativo foi desenvolvido utilizando a biblioteca React.  
-O app foi testado e se comporta da mesma forma nas versões estáveis dos seguintes navegadores: Chrome, Firefox e Edge. 
-O aplicativo é responsivo e se adapta a diferentes tamanhos de tela (para melhor experiência usar em 1444px ou 360px de largura.)
+- O aplicativo foi desenvolvido utilizando a biblioteca React.  
+-O app foi testado e se comporta da mesma forma nas versões estáveis dos seguintes navegadores: Chrome, Firefox e Edge. 
+- O aplicativo é responsivo e se adapta a diferentes tamanhos de tela (para melhor experiência usar em 1444px ou 360px de largura.)
 
 ## Funcionalidades Extras  
 Além dos requisitos básicos, foram implementadas as seguintes funcionalidades extras:  
