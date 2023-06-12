@@ -3,7 +3,7 @@ Este repositório contém a solução para o desafio de desenvolvimento frontend
 
 #Deploy
 
-link: (https://movie-promobit.surge.sh/)[Clique aqui para visitar o site]
+link: [Clique aqui para visitar o site.](https://movie-promobit.surge.sh/)
 
 ## Requisitos Funcionais  
 - O usuário deve ter acesso a uma listagem dos filmes mais populares do dia.  
