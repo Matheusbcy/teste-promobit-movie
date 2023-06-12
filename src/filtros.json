@@ -1,0 +1,68 @@
+[
+  {
+    "filtro": "Ação"
+  },
+  {
+    "filtro": "Aventura"
+  },
+
+  {
+    "filtro": "Animação"
+  },
+  {
+    "filtro": "Comédia"
+  },
+
+  {
+    "filtro": "Crime"
+  },
+  {
+    "filtro": "Documentação"
+  },
+
+  {
+    "filtro": "Drama"
+  },
+  {
+    "filtro": "Familia"
+  },
+
+  {
+    "filtro": "Fantasia"
+  },
+  {
+    "filtro": "História"
+  },
+
+  {
+    "filtro": "Terror"
+  },
+  {
+    "filtro": "Música"
+  },
+
+  {
+    "filtro": "Mistério"
+  },
+  {
+    "filtro": "Romance"
+  },
+
+  {
+    "filtro": "Ficção científica"
+  },
+  {
+    "filtro": "Cinema TV"
+  },
+
+  {
+    "filtro": "Thriller"
+  },
+  {
+    "filtro": "Guerra"
+  },
+
+  {
+    "filtro": "Faroeste"
+  }
+]
