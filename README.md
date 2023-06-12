@@ -9,7 +9,7 @@ Este repositório contém a solução para o desafio de desenvolvimento frontend
 
 ## Requisitos Não Funcionais  
 - O aplicativo foi desenvolvido utilizando a biblioteca React.  
--O app foi testado e se comporta da mesma forma nas versões estáveis dos seguintes navegadores: Chrome, Firefox e Edge. 
+- O app foi testado e se comporta da mesma forma nas versões estáveis dos seguintes navegadores: Chrome, Firefox e Edge. 
 - O aplicativo é responsivo e se adapta a diferentes tamanhos de tela (para melhor experiência usar em 1444px ou 360px de largura.)
 
 ## Funcionalidades Extras  
