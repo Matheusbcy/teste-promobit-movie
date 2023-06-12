@@ -9,9 +9,3 @@ export const GlobalStyle = createGlobalStyle`
     overflow-x: hidden;
  } 
 `;
-
-export const ContainerAPP = styled.div`
-    display: flex;
-    justify-content: center;
-    align-items: center;
-`

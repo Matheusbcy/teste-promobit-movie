@@ -10,6 +10,7 @@ export default function GlobalState(props) {
   const [releaseDates, setReleaseDates] = useState();
   const [credits, setCredits] = useState();
   const [video, setVideo] = useState([]);
+  
   const headers = {
     accept: "application/json",
     Authorization:
