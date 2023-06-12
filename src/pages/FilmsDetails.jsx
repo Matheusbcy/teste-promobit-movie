@@ -5,7 +5,7 @@ import { useParams } from "react-router-dom";
 import { useEffect } from "react";
 import Cabecalho from "../components/Header";
 import NavDet from "../components/NavDetalhes";
-import InfoElenco from "../Elenco";
+import InfoElenco from "../components/Elenco";
 import Trailer from "../components/Trailer";
 import Recomendados from "../components/Recomendados";
 
@@ -33,7 +33,7 @@ function FilmsDetails() {
 
   let classfication;
   let release;
-  
+
   if (releaseDates !== undefined) {
     if (releaseDates.results[0].release_dates[0]) {
       classfication = releaseDates.results[0].release_dates[0].certification;

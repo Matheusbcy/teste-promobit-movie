@@ -1,11 +1,6 @@
 import React from "react";
-import {
-  CardContainer,
-  ContainerCardsElenco,
-  ContainerElenco,
-  TitleElenco,
-} from "./style";
-import CardsElenco from "../components/CardsElenco";
+import { CardContainer, ContainerCardsElenco, ContainerElenco, TitleElenco } from "./style";
+import CardsElenco from "../CardsElenco"
 
 function InfoElenco({ cast }) {
   return (
